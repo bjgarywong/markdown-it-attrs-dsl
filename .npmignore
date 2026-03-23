@@ -1,0 +1,23 @@
+# Source and tests
+src/
+test/
+examples/
+
+# Tooling
+*.ts
+*.tsx
+*.tsbuildinfo
+
+tsconfig.json
+.npmignore
+.gitignore
+
+# Caches and logs
+coverage/
+.nyc_output/
+*.log
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
